@@ -1,0 +1,15 @@
+{
+  "name": "custom-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "My own syntax",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/custom-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
